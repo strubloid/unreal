@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\unreal\\Sample\\Source\\Sample\\Sample.Build.cs",
+		"D:\\unreal\\Sample\\Source\\Sample.Target.cs",
+		"D:\\unreal\\Sample\\Source\\SampleEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

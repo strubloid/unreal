@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Sample",
+			"Path": "D:\\unreal\\Sample\\Source\\Sample.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SampleEditor",
+			"Path": "D:\\unreal\\Sample\\Source\\SampleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
